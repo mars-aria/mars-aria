@@ -1,6 +1,6 @@
 # Hello World! 👋🏾 
 
-### 👩🏾‍💻 I am an Informatics student at The UT Austin School of Information (iSchool). 
+### 👩🏾‍💻 I am an Informatics student at The UT Austin School of Information. 
 
 ### 🎨 Portfolio: https://marshanah-t.squarespace.com/ 
 
