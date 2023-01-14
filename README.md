@@ -1,4 +1,4 @@
-# Welcome! 👋🏾 
+# Hello World! 👋🏾 
 
 ### 👩🏾‍💻 I am an Informatics student at The UT Austin School of Information (iSchool). 
 
