@@ -1,6 +1,6 @@
 # What Starts Here Changes The World 🤘🏾🌍
 
-### 👩🏾‍💻 Welcome! I am an Informatics student at The UT Austin School of Information.
+### 👩🏾‍💻 Welcome! I am an Informatics student at the UT Austin School of Information.
 
 ### 🎨 Portfolio: https://marshanah-t.squarespace.com/ 
 
