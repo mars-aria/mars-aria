@@ -2,8 +2,8 @@
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marshanah-t/) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=squarespace)](https://marshanah-t.squarespace.com)
 
-## Welcome! <img src="https://user-images.githubusercontent.com/95125270/212648631-5b19c193-989d-4dc4-8ba7-4c217638f2ff.gif" width="25" height="25"/> I am an Informatics student at the UT Austin School of Information.
-
+## Welcome! <img src="https://user-images.githubusercontent.com/95125270/212648631-5b19c193-989d-4dc4-8ba7-4c217638f2ff.gif" width="25" height="25"/> I am an Informatics student at the <a href="https://www.ischool.utexas.edu/">UT iSchool</a>.
+ 
 * 👩🏾 Pronouns: she/her
 * 🔭 Currently working on: projects in information organization + human-ai interaction. 
 * 🌱 Planning to learn: XML, JSON, Julia, R, and Tableu.
