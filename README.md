@@ -6,7 +6,7 @@
  
 * 👩🏾 Pronouns: she/her
 * 🔭 Currently working on: projects in information organization + human-ai interaction. 
-* 🌱 Planning to learn: XML, JSON, Julia, R, and Tableu.
+* 🌱 Planning to learn: XML, JSON, Julia, R, and Tableau.
 * 🤝 Seeking collaboration on: digital humanities + intersectional computing projects.
 * ❤️ I love ontology, taxonomy, and metadata.
 
