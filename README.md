@@ -3,7 +3,6 @@
 ### Welcome! 👋🏾 I am an Informatics student at the UT Austin School of Information.
 
 * 👩🏾‍💻 Pronouns: she/her
-* 🎨 Portfolio: https://marshanah-t.squarespace.com/ 
 
 <img src="https://github-readme-stats.vercel.app/api?username=mars-aria&show_icons=true"/>
 
