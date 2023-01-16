@@ -9,7 +9,7 @@
 
 ## What Starts Here Changes The World 🤘🏾🌍 
 
-* 📖 About Me: I am an Informatics student at the <a href="https://www.ischool.utexas.edu/">UT iSchool</a>.
+* 📖 About Me: I am an Informatics student at the <a href="https://www.ischool.utexas.edu/">UT Austin iSchool</a>.
 * 👩🏾 Pronouns: she/her
 * 🔭 Currently working on: projects in information organization + human-ai interaction. 
 * 🌱 Planning to learn: XML, JSON, Julia, R, and Tableau.
