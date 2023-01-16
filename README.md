@@ -5,7 +5,7 @@
 ### Welcome! 👋🏾 I am an Informatics student at the UT Austin School of Information.
 
 * 👩🏾 Pronouns: she/her
-* 🔭 Currently working on: projects in schema design + human-ai interaction. 
+* 🔭 Currently working on: projects in information organization + human-ai interaction. 
 * 🌱 Planning to learn: XML, JSON, Julia, R, and Tableu.
 * 🤝 Seeking collaboration on: digital humanities + intersectional computing projects.
 * ❤️ I love ontology, taxonomy, and metadata.
