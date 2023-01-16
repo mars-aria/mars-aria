@@ -1,6 +1,11 @@
 # <p align="center"> Welcome! <img src="https://user-images.githubusercontent.com/95125270/212648631-5b19c193-989d-4dc4-8ba7-4c217638f2ff.gif" width="25" height="25"/> <p/>
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marshanah-t/) [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=squarespace)](https://marshanah-t.squarespace.com)
+<div align="center">
+
+  <a href="">[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marshanah-t/)</a>
+  <a href="">[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=squarespace)](https://marshanah-t.squarespace.com)</a>
+  
+</div>
 
 ## What Starts Here Changes The World 🤘🏾🌍 
 
