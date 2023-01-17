@@ -9,7 +9,7 @@
 
 <div align="center">
   
-<a href="">![](https://komarev.com/ghpvc/?username=mars-aria&color=ff69b4)</a>
+<a href="">![](https://komarev.com/ghpvc/?username=mars-aria&style=for-the-badge&color=ff69b4)</a>
 
   </div>
   
