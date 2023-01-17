@@ -7,9 +7,7 @@
   
 </div>
 
-## <p align="center"> What Starts Here Changes The World 🤘🏾🌍 <p/>
-
-### <p align="center"> 📖 About Me <p/>
+## <p align="center"> 📖 About Me <p/>
 
 * I am an Informatics student at the <a href="https://www.ischool.utexas.edu/">UT Austin iSchool</a>.
 * 👩🏾 Pronouns: she/her
