@@ -9,11 +9,13 @@
 
 ## What Starts Here Changes The World 🤘🏾🌍 
 
-* 📖 About Me: I am an Informatics student at the <a href="https://www.ischool.utexas.edu/">UT Austin iSchool</a>.
+📖 About Me 
+
+* I am an Informatics student at the <a href="https://www.ischool.utexas.edu/">UT Austin iSchool</a>.
 * 👩🏾 Pronouns: she/her
-* 🔭 Currently working on: projects in information organization + human-ai interaction. 
+* 🔭 Currently working on projects in information organization and human-ai interaction. 
 * 🌱 Planning to learn: XML, JSON, Julia, R, and Tableau.
-* 🤝 Interested in collaborating on: digital humanities + intersectional computing projects.
+* 🤝 Interested in collaborating on digital humanities + intersectional computing projects.
 * ❤️ I love ontology, taxonomy, and metadata.
 
 ![ella-fitzgerald](https://user-images.githubusercontent.com/95125270/212615787-da6911a6-4338-44e7-9ed2-69cfa06e6ca3.gif) 
