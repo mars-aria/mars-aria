@@ -7,6 +7,12 @@
   
 </div>
 
+<div align="center">
+  
+<a href="">![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)</a>
+
+  </div>
+  
 ## <p align="center"> 📖 About Me <p/>
 
 * I am an Informatics student at the <a href="https://www.ischool.utexas.edu/">UT Austin iSchool</a>.
