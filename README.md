@@ -18,7 +18,7 @@
 * I am an Informatics student at the <a href="https://www.ischool.utexas.edu/">UT Austin iSchool</a>.
 * 👩🏾 Pronouns: she/her
 * 🔭 Currently working on projects in information organization and human-ai interaction. 
-* 🌱 Planning to learn: XML, JSON, Julia, R, and Tableau.
+* 🌱 Planning to learn: XML, JSON, Beautiful Soup, Julia, R, and Tableau.
 * 🤝 Interested in collaborating on digital humanities + intersectional computing projects.
 * ❤️ I love ontology, taxonomy, and metadata.
 
