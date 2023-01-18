@@ -20,7 +20,7 @@
 * 🔭 Currently working on projects in information organization and human-ai interaction. 
 * 🌱 Planning to learn: XML, JSON, Beautiful Soup, Julia, R, and Tableau.
 * 🤝 Interested in collaborating on digital humanities + intersectional computing projects.
-* ❤️ I love ontology, taxonomy, and metadata.
+* 📑 Ontology, taxonomy, and metadata enthusiast.
 
 <div align="center">
 
