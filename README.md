@@ -19,7 +19,7 @@
 * 👩🏾 Pronouns: she/her
 * 🔭 Currently working on projects in information organization. 
 * 🌱 Planning to learn: XML, JSON, Beautiful Soup, Julia, R, and Tableau.
-* 🤝 Interested in collaborating on digital humanities + cultural computing projects.
+* 🤝 Interested in collaborating on cultural computing projects.
 * 📑 Ontology, taxonomy, and metadata enthusiast.
 
 <div align="center">
