@@ -15,7 +15,7 @@
   
 ## <p align="center"> About Me 📖 <p/>
 
-* 🎓 I am an Informatics student at the <a href="https://www.ischool.utexas.edu/">UT Austin iSchool</a>.
+* 🎓 I am an Informatics student at the <a href="https://www.ischool.utexas.edu/">UT iSchool</a>.
 * 👩🏾 Pronouns: she/her
 * 🔭 Currently working on projects in machine learning + digital preservation. 
 * 🌱 Planning to learn: XML, JSON, Beautiful Soup, Julia, R, and Tableau.
