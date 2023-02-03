@@ -18,7 +18,7 @@
 * 🎓 I am an Informatics student at the <a href="https://www.ischool.utexas.edu/">UT Austin iSchool</a>.
 * 👩🏾 Pronouns: she/her
 * 🔭 Currently working on projects in machine learning + digital preservation. 
-* 🌱 Planning to learn: RDF (XML, JSON, SPARQL), Shell Scripting, Beautiful Soup, Julia, R, and Tableau.
+* 🌱 Planning to learn: RDF (XML, JSON, SPARQL), Shell Scripting, KNIME, Beautiful Soup, Julia, R, and Tableau.
 * 🤝 Interested in collaborating on cultural computing projects.
 * 📑 Ontology, taxonomy, and metadata enthusiast.
 
