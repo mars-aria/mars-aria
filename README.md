@@ -20,7 +20,7 @@
 * 🔭 Currently working on projects in machine learning + digital archiving. 
 * 🌱 Planning to learn: RDF (XML, JSON, SPARQL), Shell Scripting, KNIME, Beautiful Soup, Julia, R, and Tableau.
 * 🤝 Interested in collaborating on cultural computing projects.
-* 📑 Ontology, taxonomy, and metadata enthusiast.
+* 📑 Typology, ontology, taxonomy, and metadata enthusiast.
 
 <div align="center">
 
