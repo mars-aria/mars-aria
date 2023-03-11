@@ -19,7 +19,7 @@
 * 👩🏾 Pronouns: she/her
 * 🔭 Currently working on projects in machine learning + digital humanities. 
 * 🌱 Eager to explore: Nuke, RDF (XML, JSON, SPARQL), Shell Scripting, KNIME, Beautiful Soup, Julia, R, and Tableau.
-* 🤝 Interested in collaborating on cultural computing projects.
+* 🤝 Interested in collaborating on vfx and cultural computing projects.
 * 📑 Ontology, taxonomy, and metadata enthusiast.
 
 <div align="center">
