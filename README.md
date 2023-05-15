@@ -17,7 +17,7 @@
 
 * 🎓 I am an Informatics student at the <a href="https://www.ischool.utexas.edu/">UT iSchool</a>.
 * 👩🏾 Pronouns: she/her
-* 🔭 Currently working on projects in machine learning + digital humanities. 
+* 🔭 Currently working on projects in digitization. 
 * 🌱 Eager to explore: Nuke, Beautiful Soup, and Tableau.
 * 🤝 Interested in collaborating on cultural computing and post-production projects.
 * 📑 Ontology, taxonomy, and metadata enthusiast.
