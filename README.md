@@ -17,7 +17,7 @@
 
 * 🎓 I am an Informatics student at the <a href="https://www.ischool.utexas.edu/">UT iSchool</a>.
 * 👩🏾 Pronouns: she/her
-* 🔭 Currently digitizing cultural heritage artifacts using Capture One photography software and scanning equipment (e.g. the DT BC100). 
+* 🔭 Currently digitizing cultural heritage artifacts using Capture One and scanning equipment (e.g. the DT BC100). 
 * 🌱 Eager to explore: AGISoft, ZBrush, other image editing and/or 3-D sculpting software.
 * 🤝 Interested in collaborating on cultural computing and post-production projects.
 * 📑 Ontology, taxonomy, and metadata enthusiast.
