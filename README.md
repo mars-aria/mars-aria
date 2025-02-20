@@ -15,7 +15,7 @@
   
 ## <p align="center"> About Me 📖 <p/>
 
-* 🎓 I am an Informatics/Information Studies graduate from the <a href="https://www.ischool.utexas.edu/">UT iSchool</a>.
+* 🎓 I am an Informatics/Information Studies graduate from <a href="https://www.ischool.utexas.edu/">UT iSchool</a>.
 * 👩🏾 Pronouns: she/her
 * 🔭 Currently working on projects in digital archival preservation. 
 * 🌱 Eager to explore: AGISoft, Meshroom, other image editing and/or 3-D sculpting software.
