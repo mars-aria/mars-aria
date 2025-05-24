@@ -17,7 +17,7 @@
 
 * 🎓 I am an Informatics/Information Studies graduate from <a href="https://www.ischool.utexas.edu/">UT iSchool</a>.
 * 👩🏾 Pronouns: she/her
-* 🔭 Currently working on projects in Black oral history. 
+* 🔭 Currently working on applied data science & analytics for social justice projects. 
 * 🌱 Eager to explore: AGISoft, Meshroom, other image editing and/or 3-D sculpting software.
 * 🤝 Interested in collaborating on cultural computing and post-production projects.
 * 📑 Ontology, taxonomy, and metadata enthusiast.
