@@ -17,7 +17,7 @@
 
 * 🎓 I am an Informatics/Information Studies graduate from <a href="https://www.ischool.utexas.edu/">UT iSchool</a>.
 * 👩🏾 Pronouns: she/her
-* 🔭 Currently working on Applied Data Science + Analytics for Social Justice projects @ HowardU. 
+* 🔭 Currently working on Applied Data Science + Analytics for Social Justice projects @ Howard University. 
 * 🌱 Eager to explore: AI / ML / NLP Applications in GLAM (Galleries, Libraries, Archives, & Museums).
 * 🤝 Interested in collaborating on digital preservation and cultural computing projects.
 * 📑 Ontology (Semantic Web/Linked Data), Taxonomy, and Metadata enthusiast.
