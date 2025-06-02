@@ -8,10 +8,10 @@
 
 <div align="center">
 
-  <a href="">[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marshanah-t/)</a>
   <a href="">[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=squarespace)](https://marshanah-t.squarespace.com)</a>
   <a href="">[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Marshanah-Taylor?ev=hdr_xprf)</a>
-
+  <a href="">[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marshanah-t/)</a>
+  
 </div>
   
 ## <p align="center"> About Me 📖 <p/>
