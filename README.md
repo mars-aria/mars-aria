@@ -22,7 +22,7 @@
 * 🌱 Eager to explore: AI / ML / NLP Applications in GLAM (Galleries, Libraries, Archives, & Museums).
 * 🤝 Interested in collaborating on digital preservation and cultural computing projects.
 * 🌐 Ontology (Semantic Web/Linked Data), Taxonomy, and Metadata specialist.
-* 🔬 Member of the Association for Computing Machinery (AMC), 2025-Present
+* 🔬 Member of the Association for Computing Machinery (ACM), 2025-Present
 * 📖 Former Member of the Texas Library Association (TLA), 2023-2024
 * 🍿 Pop Culture Enthusiast
 
