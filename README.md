@@ -18,7 +18,7 @@
 
 * 🎓 I am an Informatics/Information Studies graduate from <a href="https://www.ischool.utexas.edu/">UT iSchool</a>.
 * 👩🏾 Pronouns: she/her
-* 🔭 Currently working on web archiving projects @ Archiving The Black Web (ATBW) Freedom School. 
+* 🔭 Currently working on cataloging and web development projects.
 * 🌱 Eager to explore: AI / ML / NLP Applications in GLAM (Galleries, Libraries, Archives, & Museums).
 * 🤝 Interested in collaborating on digital preservation and cultural computing projects.
 * 🌐 Ontology (Semantic Web/Linked Data), Taxonomy, and Metadata specialist.
