@@ -24,7 +24,7 @@
 * 🌐 Ontology (Semantic Web/Linked Data), Taxonomy, and Metadata specialist.
 * ⚙️ Member of the Association for Computing Machinery (ACM), 2025-Present
 * 📖 Former Member of the Texas Library Association (TLA), 2023-2024
-* 🔬 Published Co-Author of <a href="https://arxiv.org/abs/2505.21682v1">"Data and Technology for Equitable Public Administration"</a>
+* 🔬 Published Co-Author of <a href="https://dl.acm.org/doi/10.1145/3757477">"Data and Technology for Equitable Public Administration"</a>
 * 🏆 Recipient of the <a href="https://ischool.utexas.edu/news/ischool-researchers-cscw-2025-guide-papers-workshops-and-more">"Honorable Mention" Award for Best Paper</a> @ ACM CSCW 2025
 * 🎬 Pop Culture Enthusiast
 
