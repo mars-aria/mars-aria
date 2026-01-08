@@ -21,6 +21,7 @@
 * 🌱 Eager to explore: AI / ML / NLP Applications in GLAM (Galleries, Libraries, Archives, & Museums).
 * 🤝 Interested in collaborating on digital preservation and cultural computing projects.
 * 🌐 Ontology (Semantic Web/Linked Data), Taxonomy, and Metadata specialist.
+* ©️ <a href= "https://www.thehbcutrust.org/">HBCU Digital Library Trust</a> + <a href= "https://copyrightfirstresponders.com/">CFR</a> Cohort II Participant @ <a href= "https://github.com/harvard-library">Harvard Library</a>, 2026-Present
 * ⚙️ Member of the Association for Computing Machinery (ACM), 2025-Present
 * 📖 Former Member of the Texas Library Association (TLA), 2023-2024
 * 🔬 Published Co-Author of <a href="https://dl.acm.org/doi/10.1145/3757477">"Data and Technology for Equitable Public Administration"</a>
